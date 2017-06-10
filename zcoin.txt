@@ -1,0 +1,4 @@
+
+install automake
+
+./cpuminer -a lyra2z -o stratum+tcp://xzc.suprnova.cc:1599 -u bobandalice.user -p password -B
